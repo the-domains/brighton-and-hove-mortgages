@@ -1,0 +1,28 @@
+name: Brighton and Hove Mortgages
+favicon: null
+layout_spectrum: 0.6208833628334105
+typography_spectrum: 0.3995043896138668
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.060404751216992736
+  lightness: 0.6962121999822557
+  saturation: 0.6339393514208496
+  rhythmicContrast: 0.9310699191410094
+purpose: []
